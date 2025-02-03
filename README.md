@@ -24,5 +24,13 @@ The architecture follows best practices for a **modern, serverless web applicati
 - **Frontend:** HTML, CSS, JavaScript (Hosted on S3 with CloudFront)
 - **Backend:** AWS Lambda (Python) + DynamoDB
 - **Infrastructure as Code:** Terraform
-- **CI/CD:** GitHub Actions (Optional)
-- **Monitoring:** AWS CloudWatch
+- **CI/CD:** GitHub Actions
+  
+---
+
+## Demo
+
+- Live Site: https://d2psjrusi5xe0h.cloudfront.net/
+- Instructions: Scroll to the bottom of the page to see the visitor count. Reload the page, and watch the view count increment.
+- ![view](https://github.com/user-attachments/assets/8e742ae7-95bd-4201-ba7c-b40687a083b8)
+
