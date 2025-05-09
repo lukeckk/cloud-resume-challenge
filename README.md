@@ -2,6 +2,8 @@
 
 This project implements a **serverless portfolio website** using AWS services. It includes a **Lambda function** connected to **DynamoDB** for tracking visitor counts and is hosted on **S3 with CloudFront** for performance and security.
 
+Check out the challenge here: https://cloudresumechallenge.dev/docs/the-challenge/aws/
+
 ---
 
 ## Architecture Overview
